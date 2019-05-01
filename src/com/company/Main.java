@@ -38,7 +38,7 @@ public class Main {
         System.out.println(m1.a);//30
         System.out.println(m2.a);//30
         m1.age = 50;
-        m2.age = 120;
+        m2.age = 20;
         m1.a = 70;
         System.out.println(m1.age);//50
         System.out.println(m2.age);//20
