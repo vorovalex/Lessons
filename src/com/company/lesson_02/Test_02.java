@@ -17,7 +17,7 @@ public class Test_02 {
 
         System.out.println("text: "+ str);
         System.out.println(number * number2);
-        System.out.println("Text:")
+        System.out.println("Text:");
 
 
 
