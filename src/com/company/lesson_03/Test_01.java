@@ -9,6 +9,7 @@ public class Test_01 {
         System.out.println(sum(25, 650));
     }
     public static int sum (int number1, int number2){
+
         return number1+number2;
     }
 

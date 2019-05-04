@@ -25,6 +25,7 @@ public class Test_03 {
     public static double convert(double grn){//тут не очень понял как гривна подвязалась к числу которое ввожу
         return grn / 27.3;
     }
+
     public static double percent(double f){
         return f + f * 0.1;}
     public static String print (String s){//не очень понял зачем "return s"
